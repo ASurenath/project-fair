@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 function Footer() {
     return (
-        <Navbar expand="lg" className="bg-primary text-dark w-100">
+        <Navbar expand="lg" className="bg-primary text-dark w-100" style={{}}>
             <Container className='w-100'>
                 <Row className='w-100'>
 
